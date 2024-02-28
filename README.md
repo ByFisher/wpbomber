@@ -6,7 +6,7 @@ Nasıl Kullanılır
 
 bash
 Copy code
-git clonehttps://github.com/ByFisher/wpbomber
+git clone https://github.com/ByFisher/wpbomber
 PyAutoGUI kütüphanesini yükleyin:
 
 bash
